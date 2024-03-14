@@ -1,0 +1,13 @@
+{
+    "name": "contract-abi-decoder",
+    "version": "0.0.1",
+    "description": "",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "dependencies": {
+        "ethers": "^6.6.4"
+    }
+}
